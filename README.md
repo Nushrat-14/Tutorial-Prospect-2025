@@ -5,3 +5,4 @@ This tutoial prospect contains the following documents
 2. Nushrat_Tutorial Prospect: This power point presentation describes the goal of this project, detail steps of executing the analysis, and applicability of this tutorial.
 3. Data: To execute the tutorial prospect, necessary data "TRACER-MAP2022_VOC.csv" and "TAP_NEPH_10min.csv" are attached. These are real-time data. 
 4. R scripts: The codes are given in 2 separate scripts, named as "AAE_SAE.R" and "VOC_MDL_Timeseries.R".
+5. Tutorial prospect outline: An outline of my analysis tutorial idea.
